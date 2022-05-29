@@ -1,9 +1,4 @@
 {
- "name": "Sushi Inari Osasco - Tour Virtual 360°",
- "start_url": "index.htm",
- "background_color": "#FFFFFF",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "Av. Santo Antônio, 1508 - Vila Osasco, Osasco - SP"
+ "name": "Sushi Inari Osasco - Tour Virtual 360°",
+ "description": "Av. Santo Antônio, 1508 - Vila Osasco, Osasco - SP",
+ "display": "fullscreen",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm"
 }
